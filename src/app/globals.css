@@ -26,6 +26,15 @@ body {
   background-image: linear-gradient(90deg, #6de4e8 0%, rgba(255, 255, 255, 0.86) 95.83% );
 }
 
+.hover\:bg-radialBlack:hover {
+  background-image: linear-gradient(225.95deg, #ffffff 0%, #6d6d6d 0%, #11101d 91.61%);
+}
+
+.hover\:text-secondary:hover {
+  --tw-text-opacity: 1;
+  color: rgb(109 228 232 / var(--tw-text-opacity));
+}
+
 .swiper-pagination-bullet {
   background: #fff !important;
 }
