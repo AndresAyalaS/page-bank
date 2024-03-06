@@ -22,6 +22,10 @@ body {
   padding: 5px 0;
 }
 
+.bg-blueLight {
+  background-image: linear-gradient(90deg, #6de4e8 0%, rgba(255, 255, 255, 0.86) 95.83% );
+}
+
 .swiper-pagination-bullet {
   background: #fff !important;
 }
