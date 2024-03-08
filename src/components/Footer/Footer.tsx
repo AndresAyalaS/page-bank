@@ -33,7 +33,7 @@ export function Footer() {
             <div className="items-center justify-between md:flex">
                 <div className="my-3">
                     <Reveal>
-                        2024 Black Bank. All Rights Reserved.
+                    Todos los derechos reservados &copy; 2024 Black Bank.
                     </Reveal>
                 </div>
                 <div className="flex gap-5">
